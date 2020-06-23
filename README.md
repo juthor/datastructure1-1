@@ -1,4 +1,5 @@
-# datastructure1-1
+# datastructure1 주택용전력 청구요금계 구하기
+
 Using C++, make linked list and check bracket
 
 주택용(저압) 전력 사용한 월과 사용량과 이 주어질 때, 청구요금계를 구하는 프로그램을 작성하시오.
