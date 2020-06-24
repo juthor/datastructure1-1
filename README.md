@@ -1,4 +1,4 @@
-# datastructure1 주택용전력 청구요금계 구하기
+# datastructure1-1, 주택용전력 청구요금계 구하기
 
 Using C++, make linked list and check bracket
 
